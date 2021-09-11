@@ -9,11 +9,11 @@ Mapeo de puertos
 |NodeMCU|LCD
 |----------|----------
 |3v|VCC
-- 3v          RESET
-3v          LED
-G           GND
-D1          DC
-D2          CS
-D5          SCK
-D6          SDO (MISO)
-D7          SDI (MOSI)
+|3v|RESET
+|3v|LED
+|G|GND
+|D1|DC
+|D2|CS
+|D5|SCK
+|D6|SDO (MISO)
+|D7|SDI (MOSI)
